@@ -320,6 +320,8 @@ header .navbar ul li a:hover {
 }
 .social-icons a.instagram:hover {
   background-color: #ee00da;
+}.social-icons a.whatsapp:hover {
+  background-color: #04a307;
 }
 /* social icons end */
 
